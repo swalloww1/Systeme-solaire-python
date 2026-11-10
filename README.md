@@ -1,4 +1,4 @@
- Système Solaire Interactif
+#Système Solaire Interactif
 
 Une simulation 2D du Système Solaire développée en Python à l'aide de la bibliothèque Pygame. 
 
